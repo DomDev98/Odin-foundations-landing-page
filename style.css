@@ -153,3 +153,34 @@ button{
     margin: 0 24em;
     text-align: end;
 }
+
+.cta-section{
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-background{
+    background-color: #3882f6;
+    width: 55%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+}
+
+.cta-text{
+    color: #e5e7eb;
+}
+
+.cta-desc{
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.signup{
+    border: 2px solid #e5e7eb;
+}
