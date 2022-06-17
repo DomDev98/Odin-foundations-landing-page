@@ -184,3 +184,19 @@ button{
 .signup{
     border: 2px solid #e5e7eb;
 }
+
+footer{
+    background-color: #1f2937;
+    min-height: 10vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text{
+    color: #e5e7eb;
+    font-size: 15px;
+    font-weight: 300;
+}
