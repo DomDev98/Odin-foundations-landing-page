@@ -134,3 +134,22 @@ button{
     font-weight: 500;
     color: #7d7e81;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    margin: 0 15em
+}
+
+.quote-name{
+    margin: 0 24em;
+    text-align: end;
+}
